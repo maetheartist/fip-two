@@ -6,3 +6,4 @@ I forked a repo from https://github.com/Jerryjmk14/Counter-App.git and then clon
 It is a simple counter app built with html, css and JavaScript that counts to a certain number then prompts users/clients to get the pro version of it.
 I deployed the git commands in cloning, creating a branch and fixing some ui changes and responsiveness before pushing it to my repo.
 I updated the repo in my local engine.
+I fixed the final changes and commits here https://github.com/maetheartist/fip-two/commit/60d0fe3980cb953d0e36cf883e30a885d899f1fd
